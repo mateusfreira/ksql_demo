@@ -1,0 +1,6 @@
+- [x]  Docker up
+- [x]  Create table
+- [x]  Sql group by
+- [x]  Start the server
+- [ ]  Code frontend
+- [ ]  Show frontend
